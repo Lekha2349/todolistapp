@@ -9,5 +9,4 @@ Backend: Python
 Database: SQLite
 
 Development Tools: Notepad, CMD, File Explorer
-
-🌐 Deployed on: Streamlit Cloud
+🔗 Live App: https://todolistapp-9fgej9afyitgvohzjuvr5q.streamlit.app/
